@@ -8,7 +8,7 @@ Some things I did in this project:
 - Manipulating DOM to add movies onto the webpage
 - Using axios library to help me make request to these APIs
 - Writing async javascript function to help my handle promises
-- Using Bootstrap framework to help my style the webpage
+- Using Bootstrap framework to style the webpage
 
 
 
