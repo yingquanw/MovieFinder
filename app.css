@@ -1,0 +1,73 @@
+#mainTitle {
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 0.5em;
+    padding-bottom: 0.75em;
+    font-family: 'Permanent Marker', cursive;
+}
+
+#searchBar {
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    padding-bottom: 1.5em;
+}
+
+.navContent {
+    background-color: rgb(194, 125, 213);
+    border-bottom: 3px solid rgb(106, 173, 89);
+}
+
+.card {
+    width: 20%;
+    display: inline-block; 
+    margin: 1em 2em;
+    border: 3px outset rgb(139, 200, 228);
+    box-shadow: 4px 8px rgb(69, 139, 186);
+} 
+
+.card-text {
+    height: 60px;
+    font-size: 0.8em;
+    overflow-y: scroll;
+}
+
+.card-title {
+    height: 50px;
+    overflow-y: scroll;
+}
+
+body {
+    background-color: #efefd9;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+}
+
+#movies {
+    padding-bottom: 2em;
+}
+
+footer {
+    /* position: fixed;
+    bottom: 0;
+    display: block; */
+    margin-top: auto;
+    background-color: azure;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+footer p {
+    font-size: 1em;
+    text-align: center;
+}
+
+#icon {
+    font-size: 20em;
+    text-align: center;
+    color: rgb(219, 227, 230);
+}
+
